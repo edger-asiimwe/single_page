@@ -10,8 +10,19 @@ Leveraging on AJAX - Asynchronous JavaScript And XML (Ajax is a set of web devel
 web applications. With Ajax, web applications can send and retrieve data from a server asynchronously without interfering with the display and behaviour of the existing page).
 It is possible to create single page application without necessary using complex frontend frameworks and libraries.
 
-## HOW TO RUN
-- Create a directory on your computer using ### mkdir single-page
-- Change to that directory using ### cd single-page
+### HOW TO RUN
+- Create a directory on your computer using `mkdir single-page`
+- Change to that directory using `cd single-page`
 - Open your preferred text editor, I use Visual Studio code
-- Create a virtual enviroment ### python3 -m venv venv
+- Create a virtual enviroment `python3 -m venv venv`
+- Activate the enviroment
+- And pip install flask
+- Clone the remote Github repo
+- run the application first setting the application variables
+- `set FLASK_APP=application.py`
+- `set FLASK_ENV=development`
+- `flask run`
+
+I assume your running it on a windows computer in the terminal
+
+`Feel free to create an issue in case you have a question`
