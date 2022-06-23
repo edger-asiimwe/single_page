@@ -22,7 +22,7 @@ It is possible to create single page application without necessary using complex
 - `set FLASK_APP=application.py`
 - `set FLASK_ENV=development`
 - `flask run`
-
+Checkout pictures of the final program in the `static` folder of the repo
 I assume your running it on a windows computer in the terminal
 
 `Feel free to create an issue in case you have a question`
