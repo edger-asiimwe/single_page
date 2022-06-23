@@ -23,8 +23,6 @@ It is possible to create single page application without necessary using complex
 - `set FLASK_ENV=development`
 - `flask run`
 
-![alt text](https://github.com/edger-asiimwe/single_page/static/screenshot.png/?raw=true)
-
 I assume your running it on a windows computer in the terminal
 
 `Feel free to create an issue in case you have a question`
